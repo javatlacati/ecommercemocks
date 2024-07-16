@@ -1,0 +1,15 @@
+{
+  "name": "ecommercemocks",
+  "version": "1.0.0",
+  "description": "standalone mock server for ecommerce app",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node --watch index.mjs"
+  },
+  "author": "rlopezcarro@deloitte.com",
+  "license": "MIT",
+  "dependencies": {
+    "@mswjs/http-middleware": "^0.10.1",
+    "msw": "^2.3.1"
+  }
+}
