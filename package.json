@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "@mswjs/http-middleware": "^0.10.1",
+    "cors": "^2.8.5",
     "msw": "^2.3.1"
   }
 }
